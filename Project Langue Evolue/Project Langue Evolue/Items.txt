@@ -1,0 +1,18 @@
+Batata
+1	100
+Kastana
+10	99
+Buza
+1	97
+TV
+120	4189
+apple
+3	83
+twix
+1	49
+mouse
+7	39
+Oreo
+0.33	67
+Sweet Batata
+1.33	100

@@ -1,0 +1,310 @@
+
+On-Market 
+Hanane                                            
+    Item Name                  Unit Price     Quantity       Price          
+  1-Batata                     $1             1              $1             
+
+                                                       Total:    1    
+                                                       Discount: 15   
+                                                       Final:    0.85 
+------------------------------------------------------------------------------------
+Online    
+Fouad                                             
+    Item Name                  Unit Price     Quantity       Price          
+  1-Batata                     $1             2              $2             
+  2-Kastana                    $10            1              $10            
+
+                                                       Total:    12   
+                                                       Discount: 25   
+                                                       Final:    9    
+------------------------------------------------------------------------------------
+Online    
+Fouad                                             
+    Item Name                  Unit Price     Quantity       Price          
+  1-Kastana                    $10            3              $30            
+  2-Batata                     $1             3              $3             
+
+                                                       Total:    33   
+                                                       Discount: 25   
+                                                       Final:    24.75
+------------------------------------------------------------------------------------
+Online    
+Fouad                                             
+    Item Name                  Unit Price     Quantity       Price          
+
+                                                       Total:    0    
+                                                       Discount: 25   
+                                                       Final:    0    
+------------------------------------------------------------------------------------
+Online    
+Fouad                                             
+    Item Name                  Unit Price     Quantity       Price          
+  1-Kastana                    $10            1              $10            
+
+                                                       Total:    10   
+                                                       Discount: 25   
+                                                       Final:    7.5  
+------------------------------------------------------------------------------------
+Online    
+fo   a       d                                    
+    Item Name                  Unit Price     Quantity       Price          
+  1-Kastana                    $10            1              $10            
+
+                                                       Total:    10   
+                                                       Discount: 25   
+                                                       Final:    7.5  
+------------------------------------------------------------------------------------
+On-Market 
+f o u a d                                         
+    Item Name                  Unit Price     Quantity       Price          
+  1-Kastana                    $10            4              $40            
+
+                                                       Total:    40   
+                                                       Discount: 20   
+                                                       Final:    32   
+------------------------------------------------------------------------------------
+Online    
+Fouad                                             
+    Item Name                  Unit Price     Quantity       Price          
+  1-Kastana                    $10            2              $20            
+  2-Batata                     $1             2              $2             
+
+                                                       Total:    22   
+                                                       Discount: 25   
+                                                       Final:    16.5 
+------------------------------------------------------------------------------------
+Online    
+Fouad                                             
+    Item Name                  Unit Price     Quantity       Price          
+  1-Batata                     $1             2              $2             
+  2-Kastana                    $10            2              $20            
+
+                                                       Total:    22   
+                                                       Discount: 25   
+                                                       Final:    16.5 
+------------------------------------------------------------------------------------
+Online    
+Fouad                                             
+    Item Name                  Unit Price     Quantity       Price          
+  1-Batata                     $1             1              $1             
+
+                                                       Total:    1    
+                                                       Discount: 25   
+                                                       Final:    0.75 
+------------------------------------------------------------------------------------
+Online    
+Fouad                                             
+    Item Name                  Unit Price     Quantity       Price          
+  1-Batata                     $1             1              $1             
+
+                                                       Total:    1    
+                                                       Discount: 25   
+                                                       Final:    0.75 
+------------------------------------------------------------------------------------
+Online    
+Fouad                                             
+    Item Name                  Unit Price     Quantity       Price          
+  1-Batata                     $1             1              $1             
+  2-Kastana                    $10            4              $40            
+
+                                                       Total:    41   
+                                                       Discount: 25   
+                                                       Final:    30.75
+------------------------------------------------------------------------------------
+Online    
+Fouad                                             
+    Item Name                  Unit Price     Quantity       Price          
+  1-Buza                       $1             2              $2             
+  2-TV                         $120           1              $120           
+  3-Batata                     $1             1              $1             
+
+                                                       Total:    123  
+                                                       Discount: 25   
+                                                       Final:    92.25
+------------------------------------------------------------------------------------
+On-Market 
+Ahmad                                             
+    Item Name                  Unit Price     Quantity       Price          
+  1-Batata                     $1             1              $1             
+  2-Kastana                    $10            2              $20            
+  3-Buza                       $1             1              $1             
+  4-TV                         $120           1              $120           
+
+                                                       Total:    142  
+                                                       Discount: 10   
+                                                       Final:    127.8
+------------------------------------------------------------------------------------
+On-Market 
+Ahmad                                             
+    Item Name                  Unit Price     Quantity       Price          
+  1-Batata                     $1             1              $1             
+  2-Kastana                    $10            3              $30            
+
+                                                       Total:    31   
+                                                       Discount: 10   
+                                                       Final:    27.9 
+------------------------------------------------------------------------------------
+On-Market 
+Hanane                                            
+    Item Name                  Unit Price     Quantity       Price          
+  1-apple                      $3             40             $120           
+
+                                                       Total:    120  
+                                                       Discount: 15   
+                                                       Final:    102  
+------------------------------------------------------------------------------------
+Online    
+Fouad                                             
+    Item Name                  Unit Price     Quantity       Price          
+  1-Kastana                    $10            3              $30            
+  2-Buza                       $1             1              $1             
+  3-TV                         $120           1              $120           
+
+                                                       Total:    151  
+                                                       Discount: 25   
+                                                       Final:    113.25
+------------------------------------------------------------------------------------
+Online    
+Fouad                                             
+    Item Name                  Unit Price     Quantity       Price          
+  1-TV                         $120           1              $120           
+  2-Buza                       $1             1              $1             
+
+                                                       Total:    121  
+                                                       Discount: 25   
+                                                       Final:    90.75
+------------------------------------------------------------------------------------
+Online    
+Fouad                                             
+    Item Name                  Unit Price     Quantity       Price          
+  1-Kastana                    $10            2              $20            
+  2-Buza                       $1             1              $1             
+
+                                                       Total:    21   
+                                                       Discount: 25   
+                                                       Final:    15.75
+------------------------------------------------------------------------------------
+Online    
+Fouad                                             
+    Item Name                  Unit Price     Quantity       Price          
+  1-TV                         $120           1              $120           
+  2-Buza                       $1             1              $1             
+
+                                                       Total:    121  
+                                                       Discount: 25   
+                                                       Final:    90.75
+------------------------------------------------------------------------------------
+Online    
+Fouad                                             
+    Item Name                  Unit Price     Quantity       Price          
+  1-Kastana                    $10            2              $20            
+
+                                                       Total:    20   
+                                                       Discount: 25   
+                                                       Final:    15   
+------------------------------------------------------------------------------------
+Online    
+Fouad                                             
+    Item Name                  Unit Price     Quantity       Price          
+  1-mouse                      $7             5              $35            
+  2-Buza                       $1             13             $13            
+  3-TV                         $120           7              $840           
+  4-twix                       $1             15             $15            
+
+                                                       Total:    903  
+                                                       Discount: 25   
+                                                       Final:    677.25
+------------------------------------------------------------------------------------
+Online    
+Fouad                                             
+    Item Name                  Unit Price     Quantity       Price          
+  1-mouse                      $7             25             $175           
+
+                                                       Total:    175  
+                                                       Discount: 25   
+                                                       Final:    131.25
+------------------------------------------------------------------------------------
+On-Market 
+Hussein Kazem                                     
+    Item Name                  Unit Price     Quantity       Price          
+  1-Oreo                       $0.33          100            $33            
+
+                                                       Total:    33   
+                                                       Discount: 15   
+                                                       Final:    28.05
+------------------------------------------------------------------------------------
+On-Market 
+Hanane                                            
+    Item Name                  Unit Price     Quantity       Price          
+  1-TV                         $120           2              $240           
+
+                                                       Total:    240  
+                                                       Discount: 15   
+                                                       Final:    204  
+------------------------------------------------------------------------------------
+On-Market 
+Hanane                                            
+    Item Name                  Unit Price     Quantity       Price          
+
+                                                       Total:    0    
+                                                       Discount: 15   
+                                                       Final:    0    
+------------------------------------------------------------------------------------
+Online    
+Fouad                                             
+    Item Name                  Unit Price     Quantity       Price          
+
+                                                       Total:    0    
+                                                       Discount: 25   
+                                                       Final:    0    
+------------------------------------------------------------------------------------
+Online    
+Fouad                                             
+    Item Name                  Unit Price     Quantity       Price          
+
+                                                       Total:    0    
+                                                       Discount: 25   
+                                                       Final:    0    
+------------------------------------------------------------------------------------
+Online    
+Fouad                                             
+    Item Name                  Unit Price     Quantity       Price          
+  1-Oreo                       $0.33          3              $0.99          
+
+                                                       Total:    0.99 
+                                                       Discount: 25   
+                                                       Final:    0.7425
+------------------------------------------------------------------------------------
+Online    
+Fouad                                             
+    Item Name                  Unit Price     Quantity       Price          
+  1-Kastana                    $10            1              $10            
+  2-TV                         $120           15             $1800          
+  3-apple                      $3             11             $33            
+
+                                                       Total:    1843 
+                                                       Discount: 25   
+                                                       Final:    1382.25
+------------------------------------------------------------------------------------
+Online    
+Fouad                                             
+    Item Name                  Unit Price     Quantity       Price          
+  1-Buza                       $1             3              $3             
+  2-TV                         $120           2              $240           
+  3-apple                      $3             6              $18            
+  4-twix                       $1             1              $1             
+  5-mouse                      $7             1              $7             
+
+                                                       Total:    269  
+                                                       Discount: 25   
+                                                       Final:    201.75
+------------------------------------------------------------------------------------
+Online    
+hasan                                             
+    Item Name                  Unit Price     Quantity       Price          
+  1-TV                         $120           2              $240           
+
+                                                       Total:    240  
+                                                       Discount: 30   
+                                                       Final:    168  
+------------------------------------------------------------------------------------
